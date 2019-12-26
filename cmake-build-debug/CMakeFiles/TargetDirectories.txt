@@ -1,0 +1,3 @@
+E:/Rich It/ACM on CLION/uva 673/cmake-build-debug/CMakeFiles/uva_673.dir
+E:/Rich It/ACM on CLION/uva 673/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Rich It/ACM on CLION/uva 673/cmake-build-debug/CMakeFiles/rebuild_cache.dir
